@@ -129,7 +129,7 @@ If you find a bug or have a feature request, please open an issue on GitHub. Be 
 
 ### Contact
 If you have any questions or need further assistance, feel free to contact the project maintainers:
-- **Project Maintainer:** [Saurav Gheewala](sg.saurav@gmail.com)
+- **Project Maintainer:** [Saurav Gheewala](mailto:sg.saurav@gmail.com)
 
 We appreciate your interest in contributing and look forward to your involvement in improving this project!
 
