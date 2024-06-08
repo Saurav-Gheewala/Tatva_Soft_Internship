@@ -18,14 +18,14 @@ This project is a web application that features separate panels for users and ad
 ## Technologies Used
 - **Frontend:** Angular
 - **Backend:** .NET Core
-- **Database:** SQL Server
+- **Database:** PostgreSQL Server
 
 ## Features
 
 ### Admin Panel
 - **Add User:** Admins can create new user accounts.
 - **Add New Mission:** Admins can create and manage missions.
-- **Add Skills:** Admins can add new skills that can be linked to missions and users.
+- **Add Mission Skills:** Admins can add new Mission skills that can be linked to missions and users.
 - **Add Mission Theme:** Admins can add themes to categorize missions.
 - **Approve Mission Applications:** Admins can view and approve/reject mission applications submitted by users.
 
