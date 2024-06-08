@@ -123,16 +123,14 @@ We welcome contributions from the community! If you're interested in contributin
    - Select your branch from the head repository and the base repository.
    - Provide a clear description of your changes and submit the pull request.
 
-### Code of Conduct
-Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) that all contributors are expected to follow. Please read it to understand the standards we adhere to in this project.
 
 ### Issues
 If you find a bug or have a feature request, please open an issue on GitHub. Be sure to include a clear title and description, as well as any relevant information or screenshots.
 
 ### Contact
 If you have any questions or need further assistance, feel free to contact the project maintainers:
-- **Project Maintainer:** [Your Name](mailto:youremail@example.com)
-- **GitHub Issues:** [Issues Page](https://github.com/yourusername/yourproject/issues)
+- **Project Maintainer:** [Your Name](sg.saurav@gmail.com)
+- **GitHub Issues:** [Issues Page](https://github.com/Saurav-Gheewala)
 
 We appreciate your interest in contributing and look forward to your involvement in improving this project!
 
